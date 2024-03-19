@@ -19,13 +19,6 @@ function isMobileDev(){
     return false;
 }
 
-//$_SERVER['DOCUMENT_ROOT'] = dirname(__FILE__);
-
-
-//echo $_SERVER['REQUEST_URI'];
-
-//exit();
-
 // Use the function
 if(isMobileDev()){
     // Do something for only mobile users
