@@ -11,9 +11,14 @@
 <title> KHAYA LA UNION </title>
 
 <?php include_once $_SERVER['DOCUMENT_ROOT'].'/tpl_mob_menu.php'; ?>
+<div id="bar-top-gray">
+    <h1>Galería <span class="orange-k">de Proyectos</span></h1>  
+</div> 
 
+<section id="project-header">
+	<img src="/assets/images/header-curridabat.webp" class="img-fluid" alt="Khaya - Curridabat">
+</section>
 
-xxxxxx
 
 
 <?php include_once $_SERVER['DOCUMENT_ROOT'].'/tpl_mob_footer.php'; ?>
