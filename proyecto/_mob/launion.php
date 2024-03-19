@@ -11,7 +11,7 @@
 <title> KHAYA LA UNION </title>
 
 <?php include_once $_SERVER['DOCUMENT_ROOT'].'/tpl_mob_menu.php'; ?>
-<div id="bar-top-gray">
+<div id="bar-top-orange">
     <h1>Galería <span class="orange-k">de Proyectos</span></h1>  
 </div> 
 
