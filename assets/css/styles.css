@@ -680,6 +680,20 @@
 	   margin: 0 auto;
    }
    
+   .bar-top-orange {
+	font-size: calc(1rem + 1.5vw);
+    background-color: #444444;
+    text-align: center;
+    padding: 5px;
+    color: #fff;
+   }
+
+
+
+
+
+
+
    /* ===================================
 		Header
    ====================================== */
